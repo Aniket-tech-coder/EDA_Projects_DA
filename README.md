@@ -3,7 +3,7 @@
 ###      Aman Pandey
 ###      Karan Sharma
 ###      Khushi Sandhya
-###      Priyaraj Singh**  
+###      Priyaraj Singh
 
 ---
 
