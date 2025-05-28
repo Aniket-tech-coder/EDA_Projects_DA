@@ -1,9 +1,9 @@
 # **🚀 Marketing Analytics Capstone Project**  
-### **By Aniket Singh Parmar
-        Aman Pandey
-        Karan Sharma
-        Khushi Sandhya
-        Priyaraj Singh**  
+### **By Aniket Singh Parmar**
+###   ** Aman Pandey
+###   ** Karan Sharma
+###   ** Khushi Sandhya
+###   ** Priyaraj Singh**  
 
 ---
 
